@@ -1,0 +1,185 @@
+@font-face {
+    font-family: minecraft;
+    src: url(font/Minecraft.ttf);
+  }
+
+  @font-face {
+    font-family: minecraftBIG;
+    src: url(font/MinecraftBIG.ttf);
+  }
+
+  @font-face {
+    font-family: opensans;
+    src: url(font/OpenSans.ttf);
+  }
+
+  @font-face {
+    font-family: opensans;
+    src: url(font/OpenSansBold.ttf);
+    font-weight: bold;
+
+  }
+  @font-face {
+    font-family: opensans;
+    src: url(font/OpenSansItalic.ttf);
+    font-style: italic;
+
+  }
+body {
+    background-image: url("images/background_blurred.png");
+    background-repeat: no-repeat;
+    /* background-attachment: fixed; */
+    background-size: cover;
+}
+
+* {
+    font-family: minecraft;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+} 
+
+a {
+    text-decoration: none;
+}
+ 
+a:hover {
+    text-decoration: none;
+}
+
+.menu {
+    margin-top: 55px;
+}
+
+.main {
+    margin-top: 30px;
+}
+
+.menu li {
+    list-style: none;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    padding: 5px 0;
+    transition: background 0.5s;
+}
+
+.menu li:hover {
+    background: #00000047;
+}
+
+.menu li a {
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.listing {
+    background: #101e3cd1;
+    color: #fff;
+    margin: 0;
+    padding: 10px;
+    display: block;
+    margin-bottom: 35px;
+    min-height: 130px;
+}
+
+.listing h3 {
+    color: #F1E1A4;
+    font-size: 1em;
+}
+
+.listing p {
+    font-size: 0.8em;
+}
+
+.content {
+    background: #101e3cd1;
+    color: #fff;
+    margin: 0;
+    padding: 10px;
+    display: block;
+    margin-bottom: 20px;
+    min-height: 130px;
+}
+
+.content:first-of-type {
+    margin-top: 70px;
+}
+
+.content h1 {
+    color: #F1E1A4;
+    font-size: 22px;
+}
+
+.content p {
+    font-family: opensans, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+
+.content b {
+    font-family: opensans, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.icon {
+    max-height: 150px;
+    margin-right: 10px;
+}
+
+.logo {
+    max-height: 100px;
+    margin-right: 10px;
+}
+
+nav {
+    background: linear-gradient(to bottom right, #C9CCCE , #617088);
+    border-bottom: 4px solid #D5D9DF;
+    -webkit-box-shadow: 0px 10px 22px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 10px 22px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 10px 22px 0px rgba(0,0,0,0.75);
+    height: 60px;
+    padding: 5px;
+}
+nav h1 {
+    font-family: MinecraftBIG;
+    color: #454545;
+    font-size: 1.5em;
+    padding: 12px 0 12px 21px;
+}
+
+nav:hover {
+    cursor: pointer;
+}
+
+i {
+    font-size: 0.8rem;
+    vertical-align: middle;
+    margin-right: 1px;
+}
+
+hr {
+    border-top: 3px solid #ffffff30;
+}
+
+.listing button {
+    margin-top: 10px;
+    border:none;
+    padding:0.25em 5em 0.25em 1em;
+    text-align:left;
+    background:
+      linear-gradient(-120deg, transparent 1em, #35B02E 1.05em ) top no-repeat,
+      linear-gradient(300deg, transparent 1em, #35B02E 1.05em ) bottom no-repeat ;
+    background-size: 100% 50%;
+    color:white;
+}
+
+.listing button:focus {outline:0;}
+
+.img {
+    height: 150px;
+    padding: 10px 0;
+    margin: 40px 0;
+}
