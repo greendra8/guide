@@ -80,6 +80,10 @@ a:hover {
     padding: 10px 10px;
 }
 
+.menu .row {
+    margin: 0;
+}
+
 .container {
     padding: 0 10px;
 }
@@ -179,11 +183,10 @@ nav:hover {
 }
 
 #google_translate_element {
-    float: center;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 25px;
     margin-bottom: -40px;
-    margin-left: 90px;
+    margin-left: 65px;
 }
 .goog-te-combo option {
     font-family: opensans;
