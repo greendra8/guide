@@ -28,7 +28,7 @@
 body {
     background-image: url("images/background_blurred.png");
     background-repeat: no-repeat;
-    /* background-attachment: fixed; */
+    background-attachment: fixed;
     background-size: cover;
 }
 
@@ -68,6 +68,10 @@ a:hover {
     background: #00000047;
 }
 
+.active {
+    background: #00000047;
+}
+
 .menu li a {
     color: #fff;
     text-align: center;
@@ -76,11 +80,15 @@ a:hover {
     padding: 10px 10px;
 }
 
+.container {
+    padding: 0 10px;
+}
+
 .listing {
     background: #101e3cd1;
     color: #fff;
     margin: 0;
-    padding: 10px;
+    padding: 15px 10px;
     display: block;
     margin-bottom: 35px;
     min-height: 130px;
@@ -93,30 +101,32 @@ a:hover {
 
 .listing p {
     font-size: 0.8em;
+    margin-bottom: 0;
 }
 
 .content {
     background: #101e3cd1;
     color: #fff;
-    margin: 0;
+    margin: 50px 0 20px 0;
     padding: 10px;
     display: block;
-    margin-bottom: 20px;
     min-height: 130px;
+    -webkit-hyphens: auto;
+    -ms-hyphens: auto;
+    hyphens: auto;
 }
 
-.content:first-of-type {
-    margin-top: 70px;
-}
 
 .content h1 {
+    font-family: opensans;
     color: #F1E1A4;
-    font-size: 22px;
+    font-size: 32px;
+    font-weight: bold;
 }
 
 .content p {
     font-family: opensans, Arial, Helvetica, sans-serif;
-    font-size: 18px;
+    font-size: 16px;
     margin-bottom: 40px;
 }
 
@@ -125,8 +135,18 @@ a:hover {
     font-size: 18px;
 }
 
+.content button {
+    margin-top: 10px;
+    border:none;
+    padding:0.5em 0;
+    width: 100%;
+    text-align: center;
+    background: #35B02E;
+    color:white;
+}
+
 .icon {
-    max-height: 150px;
+    max-height: 130px;
     margin-right: 10px;
 }
 
@@ -146,6 +166,7 @@ nav {
 }
 nav h1 {
     font-family: MinecraftBIG;
+    float: left;
     color: #454545;
     font-size: 1.5em;
     padding: 12px 0 12px 0px;
@@ -156,6 +177,28 @@ nav h1 {
 nav:hover {
     cursor: pointer;
 }
+
+#google_translate_element {
+    float: center;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: -40px;
+    margin-left: 90px;
+}
+.goog-te-combo option {
+    font-family: opensans;
+    font-size: 12px;
+}
+
+.goog-logo-link {
+    display:none !important;
+ }
+ 
+ .goog-te-gadget {
+    color: transparent !important;
+ }
+ 
+
 
 i {
     font-size: 0.8rem;
@@ -189,12 +232,30 @@ hr {
 
 
 @media only screen and (max-width: 360px) {
+    .listing button {
+        margin-top: 10px;
+        border:none;
+        padding:0.25em 0;
+        width: 100%;
+        text-align: center;
+        background: #35B02E;
+        color:white;
+        
+    }
+
+  }
+
+  @media only screen and (max-width: 400px) {
     .icon { 
-        float: none!important;
+        /* float: none!important;
         margin-left: auto;
         margin-right: auto;
         margin-bottom: 10px;
-        display: block;
+        display: block; */
+        max-height: 100px;
+        margin-bottom: 15px;
     }
-
+    .listing button {
+        padding: 0.25em 3.5em;
+    }
   }
