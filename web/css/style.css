@@ -53,7 +53,7 @@ a:hover {
 
 .footer{
     color: #fff;
-    margin-top: -20px;
+    margin-top: -10px;
     margin-bottom: 30px;
 }
 
@@ -219,7 +219,7 @@ body {
 
 .goog-te-combo {
     font-family: minecraft;
-    padding: 5px 6px;
+    padding: 5px 0 5px 6px;
     margin-left: 10px;
     border: none;
     color: #ffffff;
