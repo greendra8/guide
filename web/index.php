@@ -23,7 +23,7 @@
         <div class="row listing">
             <img src="/img/stone-tappable.png" class="rounded float-left icon" alt="...">
             <h3>Tappables</h3>
-            <p>What are tappables and how can you collect them? Plus what do tappable rarities mean?</p>
+            <p class="notranslate">What are tappables and how can you collect them? Plus what do tappable rarities mean?</p>
             <button>Learn More</button>
         </div>
         <div class="row listing">
