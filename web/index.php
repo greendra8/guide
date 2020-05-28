@@ -13,40 +13,40 @@
         <hr>
         <a href="/pages/general/introduction.php">
             <div class="row listing">
-                <img src="/img/crafting.png" class="rounded float-left icon" alt="...">
+                <img src="/img/earth.png" class="rounded float-left icon" alt="...">
                 <h3>An Introduction</h3>
                 <p>A simple, short and sweet introduction to Minecraft Earth! Everything you need to know.</p>
                 <button>Learn More</button>
             </div>
         </a>
         <div class="row listing">
-            <img src="/img/inventory.png" class="rounded float-left icon" alt="...">
-            <h3>An Introduction</h3>
-            <p>A simple, short and sweet introduction to Minecraft Earth! Everything you need to know.</p>
+            <img src="/img/stone-tappable.png" class="rounded float-left icon" alt="...">
+            <h3>Tappables</h3>
+            <p>What are tappables and how can you collect them? Plus what do tappable rarities mean?</p>
             <button>Learn More</button>
         </div>
         <div class="row listing">
-            <img src="/img/crafting.png" class="rounded float-left icon" alt="...">
-            <h3>An Introduction</h3>
-            <p>A simple, short and sweet introduction to Minecraft Earth! Everything you need to know.</p>
+            <img src="/img/backpack.png" class="rounded float-left icon" alt="...">
+            <h3>Inventory</h3>
+            <p>How does your inventory work in Minecraft Earth and how can you access it?</p>
             <button>Learn More</button>
         </div>
         <div class="row listing">
-            <img src="/img/inventory.png" class="rounded float-left icon" alt="...">
-            <h3>An Introduction</h3>
-            <p>A simple, short and sweet introduction to Minecraft Earth! Everything you need to know.</p>
+            <img src="/img/profile.png" class="rounded float-left icon" alt="...">
+            <h3>Profile</h3>
+            <p>What does your profile tell you and how can you view it in Minecraft Earth.</p>
             <button>Learn More</button>
         </div>
         <div class="row listing">
-            <img src="/img/crafting.png" class="rounded float-left icon" alt="...">
-            <h3>An Introduction</h3>
-            <p>A simple, short and sweet introduction to Minecraft Earth! Everything you need to know.</p>
+            <img src="/img/adventure_crystals.png" class="rounded float-left icon" alt="...">
+            <h3>Adventures</h3>
+            <p>What are adventures and adventure crystals and how you can play them in Minecraft Earth.</p>
             <button>Learn More</button>
         </div>
         <div class="row listing">
-            <img src="/img/inventory.png" class="rounded float-left icon" alt="...">
-            <h3>An Introduction</h3>
-            <p>A simple, short and sweet introduction to Minecraft Earth! Everything you need to know.</p>
+            <img src="/img/journal.png" class="rounded float-left icon" alt="...">
+            <h3>Journal</h3>
+            <p>What is the journal and how can you use it in Minecraft Earth.</p>
             <button>Learn More</button>
         </div>
 

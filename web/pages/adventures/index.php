@@ -19,37 +19,6 @@
                 <button>Learn More</button>
             </div>
         </a>
-        <div class="row listing">
-            <img src="/img/inventory.png" class="rounded float-left icon" alt="...">
-            <h3>An Introduction</h3>
-            <p>A simple, short and sweet introduction to Minecraft Earth! Everything you need to know.</p>
-            <button>Learn More</button>
-        </div>
-        <div class="row listing">
-            <img src="/img/crafting.png" class="rounded float-left icon" alt="...">
-            <h3>An Introduction</h3>
-            <p>A simple, short and sweet introduction to Minecraft Earth! Everything you need to know.</p>
-            <button>Learn More</button>
-        </div>
-        <div class="row listing">
-            <img src="/img/inventory.png" class="rounded float-left icon" alt="...">
-            <h3>An Introduction</h3>
-            <p>A simple, short and sweet introduction to Minecraft Earth! Everything you need to know.</p>
-            <button>Learn More</button>
-        </div>
-        <div class="row listing">
-            <img src="/img/crafting.png" class="rounded float-left icon" alt="...">
-            <h3>An Introduction</h3>
-            <p>A simple, short and sweet introduction to Minecraft Earth! Everything you need to know.</p>
-            <button>Learn More</button>
-        </div>
-        <div class="row listing">
-            <img src="/img/inventory.png" class="rounded float-left icon" alt="...">
-            <h3>An Introduction</h3>
-            <p>A simple, short and sweet introduction to Minecraft Earth! Everything you need to know.</p>
-            <button>Learn More</button>
-        </div>
-
       </div>
     
 </body>
