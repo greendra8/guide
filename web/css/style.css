@@ -196,15 +196,15 @@ nav:hover {
 }
 
 select {
-    -moz-appearance: none;
-    -webkit-appearance: none;
-    appearance: none;
+    background: #101f3c url(data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ljk1IDEwIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6IzEwMWUzY2QxO30uY2xzLTJ7ZmlsbDojNDQ0O308L3N0eWxlPjwvZGVmcz48dGl0bGU+YXJyb3dzPC90aXRsZT48cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSI0Ljk1IiBoZWlnaHQ9IjEwIi8+PHBvbHlnb24gY2xhc3M9ImNscy0yIiBwb2ludHM9IjEuNDEgNC42NyAyLjQ4IDMuMTggMy41NCA0LjY3IDEuNDEgNC42NyIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMiIgcG9pbnRzPSIzLjU0IDUuMzMgMi40OCA2LjgyIDEuNDEgNS4zMyAzLjU0IDUuMzMiLz48L3N2Zz4=) no-repeat 95% 50%;
+	-moz-appearance: none; 
+	-webkit-appearance: none; 
+	appearance: none;
 }
 
 .goog-te-combo {
     font-family: minecraft;
-    padding: 5px 2px;
-    background: #101e3cd1;
+    padding: 5px 6px;
     margin-left: 10px;
     border: none;
     color: #ffffff;
