@@ -195,6 +195,12 @@ nav:hover {
     margin-bottom: 20px;
 }
 
+select {
+    -moz-appearance: none;
+    -webkit-appearance: none;
+    appearance: none;
+}
+
 .goog-te-combo {
     font-family: minecraft;
     padding: 5px 2px;
