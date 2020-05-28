@@ -20,36 +20,46 @@
                 <button>Learn More</button>
             </div>
         </a>
+        <a id="tappables" href="/pages/general/tappables.php">
         <div class="row listing">
             <img src="/img/stone-tappable.png" class="rounded float-left icon" alt="...">
             <h3>Tappables</h3>
             <p class="notranslate">What are tappables and how can you collect them? Plus what do tappable rarities mean?</p>
             <button>Learn More</button>
         </div>
+        </a>
+        <a href="/pages/general/inventory.php">
         <div class="row listing">
             <img src="/img/backpack.png" class="rounded float-left icon" alt="...">
             <h3>Inventory</h3>
             <p>How does your inventory work in Minecraft Earth and how can you access it?</p>
             <button>Learn More</button>
         </div>
+        </a>
+        <a href="/pages/general/.php">
         <div class="row listing">
             <img src="/img/profile.png" class="rounded float-left icon" alt="...">
             <h3>Profile</h3>
             <p>What does your profile tell you and how can you view it in Minecraft Earth.</p>
             <button>Learn More</button>
         </div>
+        </a>
+        <a href="/pages/general/.php">
         <div class="row listing">
             <img src="/img/adventure_crystals.png" class="rounded float-left icon" alt="...">
             <h3>Adventures</h3>
             <p>What are adventures and adventure crystals and how you can play them in Minecraft Earth.</p>
             <button>Learn More</button>
         </div>
+        </a>
+        <a href="/pages/general/.php">
         <div class="row listing">
             <img src="/img/journal.png" class="rounded float-left icon" alt="...">
             <h3>Journal</h3>
             <p>What is the journal and how can you use it in Minecraft Earth.</p>
             <button>Learn More</button>
         </div>
+        </a>
       </div>
     
       <div class="container menu footer">

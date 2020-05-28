@@ -125,12 +125,13 @@ a:hover {
 }
 
 
-.content h1 {
+.content h1, .content h2, .content h3, .content h4 {
     font-family: opensans;
     color: #F1E1A4;
-    font-size: 32px;
     font-weight: bold;
 }
+
+.content h1 { font-size: 32px; } .content h2 { font-size: 26px; } .content h3 { font-size: 22px; } .content h4 { font-size: 18px; }
 
 .content p {
     font-family: opensans, Arial, Helvetica, sans-serif;
@@ -177,7 +178,7 @@ nav h1 {
     float: left;
     color: #454545;
     font-size: 1.5em;
-    padding: 12px 0 12px 0px;
+    padding: 11px 0 11px 0px;
     white-space: nowrap;
     overflow:hidden;
 }
@@ -187,7 +188,7 @@ nav small {
     float: left;
     color: #454545ba;
     font-size: 0.6em;
-    padding: 22px 0 12px 2px;
+    padding: 21px 0 11px 2px;
     white-space: nowrap;
     overflow:hidden;
 }
