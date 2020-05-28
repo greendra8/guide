@@ -50,8 +50,14 @@
             <p>What is the journal and how can you use it in Minecraft Earth.</p>
             <button>Learn More</button>
         </div>
-
       </div>
     
+      <div class="container menu footer">
+        <div class="row">
+            <li><a href="/">About</a></li>
+            <li><a href="/">Terms</a></li>
+            <li><a href="/">Contact</a></li>
+        </div>
+    </div>
 </body>
 </html>

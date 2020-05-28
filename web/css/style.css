@@ -51,6 +51,12 @@ a:hover {
     margin-top: 55px;
 }
 
+.footer{
+    color: #fff;
+    margin-top: -20px;
+    margin-bottom: 30px;
+}
+
 .main {
     margin-top: 30px;
     margin-bottom: 60px;
@@ -308,7 +314,7 @@ hr {
   @media only screen and (max-width: 400px) {
     .icon { 
         max-height: 100px;
-        margin: 15px 6px 70px 0;
+        margin: 15px 6px 60px 0;
     }
     /* .listing button {
         padding: 0.25em 3.5em;
