@@ -11,6 +11,7 @@
     </div>
     <div class="container main">
         <hr>
+        <div class="clearfix" id="google_translate_element"></div>
         <a href="/pages/general/introduction.php">
             <div class="row listing">
                 <img src="/img/earth.png" class="rounded float-left icon" alt="...">

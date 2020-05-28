@@ -191,12 +191,20 @@ nav:hover {
 
 #google_translate_element {
     height: 27px;
-    text-align: center;
-    margin-top: 25px;
-    margin-bottom: -40px;
-    margin-left: 65px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+.goog-te-combo {
+    font-family: minecraft;
+    padding: 5px 2px;
+    background: #101e3cd1;
+    margin-left: 10px;
+    border: none;
+    color: #ffffff;
 }
 .goog-te-combo option {
+    background: #112240;
     font-family: opensans;
     font-size: 12px;
 }
