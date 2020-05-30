@@ -20,7 +20,7 @@
                 also be rewarded with XP for each challenge you complete.</p>
             <img src="/img/boosts.png" class="rounded mx-auto d-block img">
             <p>Seasons last for two weeks, and at the end of the timer reset with a whole load of new challenges and
-                rewards to be earnt.;</p>
+                rewards to be earnt.</p>
             <button onclick="window.location.href='/#seasons'">Go Back</button>
         </div>
     </div>
