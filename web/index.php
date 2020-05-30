@@ -45,7 +45,7 @@
                 <button>Learn More</button>
             </div>
         </a>
-        <a href="/pages/general/.php">
+        <a href="/pages/general/adventures.php">
             <div class="row listing">
                 <img src="/img/adventure_crystals.png" class="rounded float-left icon" alt="...">
                 <h3 id="adventures">Adventures</h3>
@@ -53,11 +53,27 @@
                 <button>Learn More</button>
             </div>
         </a>
-        <a href="/pages/general/.php">
+        <a href="/pages/general/journal.php">
             <div class="row listing">
                 <img src="/img/journal.png" class="rounded float-left icon" alt="...">
                 <h3 id="journal">Journal</h3>
                 <p>What is the journal and how can you use it in Minecraft Earth.</p>
+                <button>Learn More</button>
+            </div>
+        </a>
+        <a href="/pages/general/challenges.php">
+            <div class="row listing">
+                <img src="/img/challenges.png" class="rounded float-left icon" alt="...">
+                <h3 id="challenges">Challenges</h3>
+                <p>How do daily challenges and tappable challenges work in Minecraft Earth?</p>
+                <button>Learn More</button>
+            </div>
+        </a>
+        <a href="/pages/general/seasons.php">
+            <div class="row listing">
+                <img src="/img/seasons.png" class="rounded float-left icon" alt="...">
+                <h3 id="seasons">Seasons</h3>
+                <p>What are seasons in Minecraft Earth and how can you complete them.</p>
                 <button>Learn More</button>
             </div>
         </a>
