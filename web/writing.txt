@@ -1,7 +1,9 @@
 Tappables are collectables in Minecraft Earth. They spawn randomly all around the world, and once in range can be tapped to be opened. Different tappable types will give you different loot, however the exact items that you'll get from a tappable is random. 
-In Minecraft Earth there are 5 levels or rarity. Each rarity level is represented by a colour which shows when you open the tappable and also in your inventory. 
 There are two main types of tappable: Items and Mobs.
 <h2>Item Tappables</h2>
 Item tappables include those such as Grass, Stone and Tree tappables. As the name suggests, they will contain items that are blocks, like wood, stone and glowstone. However, they can also occasionally contain hostile mobs, such as the Skeleton and Zombie. The changes of getting hostile mobs is very rare, however.
 <h2>Mob Tappables</h2>
 Mob tappables show on the map as either cows, chickens, sheep or pigs. When collecting a mob tappable, there is a small chance that you will get a rare variant of that mob. For instance when opening a pig tappable you have a 2.6% chance of getting a muddy pig!
+
+
+In Minecraft Earth there are 5 levels of rarity for items and. Each rarity level is represented by a colour which shows when you open the tappable and also in your inventory. 

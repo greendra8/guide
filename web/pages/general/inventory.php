@@ -14,7 +14,7 @@
             <p>Along the bottom of the screen you'll notice there are 7 slots. This area is called your hotbar.</p>
             <img src="/img/wooden_sword.png" class="rounded mx-auto d-block img">
             <p>The items in your hotbar will be those that you take into adventures with you. Be careful though, as if you die in an adventure you will lose these items! (More on this in the adventure guide)</p>
-            <button onclick="window.history.back();">Go Back</button>
+            <button onclick="window.location.href='/#inventory'">Go Back</button>
         </div>
     </div>
 </body>
