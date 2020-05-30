@@ -7,7 +7,7 @@
         <div class="row">
             <li class="active"><a href="/"><i class="fas fa-home"></i> General</a></li>
             <li><a href="/pages/adventures/"><i class="fas fa-hiking"></i> Adventures</a></li>
-            <li><a href="/"><i class="fas fa-th"></i> Items</a></li>
+            <li><a href="/items"><i class="fas fa-th"></i> Items</a></li>
         </div>
     </div>
     <div class="container main">
@@ -16,7 +16,7 @@
         <a href="/pages/general/introduction.php">
             <div class="row listing">
                 <img src="/img/earth.png" class="rounded float-left icon" alt="...">
-                <h3 id="introduction">An Introduction</h3>
+                <h3 id="introduction">Introduction</h3>
                 <p>A simple, short and sweet introduction to Minecraft Earth! Everything you need to know.</p>
                 <button>Learn More</button>
             </div>
@@ -37,7 +37,7 @@
                 <button>Learn More</button>
             </div>
         </a>
-        <a href="/pages/general/.php">
+        <a href="/pages/general/profile.php">
             <div class="row listing">
                 <img src="/img/profile.png" class="rounded float-left icon" alt="...">
                 <h3 id="profile">Profile</h3>
@@ -61,18 +61,18 @@
                 <button>Learn More</button>
             </div>
         </a>
-        <a href="/pages/general/.php">
-            <div class="row listing soon">
-                <h3>More Coming Soon!</h3>
-                <p>Stay tuned for more Minecraft Earth guides coming soon!</p>
-            </div>
+        <div class="row listing soon">
+            <img src="/img/purple_cat.png" class="rounded float-left icon" alt="...">
+            <h3>More Coming Soon!</h3>
+            <p>Stay tuned for more Minecraft Earth guides coming soon!</p>
+        </div>
     </div>
 
     <div class="container menu footer">
         <div class="row">
-            <li><a href="/">About</a></li>
+            <li><a href="/about.php">About</a></li>
             <li><a href="/">Terms</a></li>
-            <li><a href="/">Contact</a></li>
+            <li><a href="mailto:greendra8@hotmail.co.uk">Contact</a></li>
         </div>
     </div>
 </body>

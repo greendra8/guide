@@ -56,12 +56,17 @@ a:hover {
 .footer {
     color: #fff;
     margin-top: -10px;
-    margin-bottom: 30px;
+}
+
+
+body::after {
+    display: block;
+    content: " ";
+    height: 20px;
 }
 
 .main {
     margin-top: 30px;
-    margin-bottom: 60px;
 }
 
 .menu li {
@@ -135,9 +140,7 @@ a:hover {
     margin-bottom: 0;
 }
 
-.soon {
-    min-height: 0px;
-}
+
 
 .content {
     background: #101e3cd1;
@@ -176,7 +179,7 @@ a:hover {
     margin-bottom: 40px;
 }
 
-.content b {
+.content b, .content strong {
     font-family: opensans, Arial, Helvetica, sans-serif;
     font-size: 18px;
 }
@@ -191,9 +194,31 @@ a:hover {
     color: white;
 }
 
+.col {
+    height: 100%;
+}
+
+.items {
+    margin-top: 15px;
+}
+
+.item {
+    max-width: 23%;
+    margin-bottom: 10px;
+}
+
 .icon {
     max-height: 130px;
     margin-right: 10px;
+}
+
+.soon {
+    border-radius: 5px;
+    background: linear-gradient(to bottom right, #95989a, #475265);
+}
+
+.soon .icon {
+    margin: 0px 10px 0 10px;
 }
 
 .logo {
@@ -310,14 +335,11 @@ hr {
     margin: 40px 0;
 }
 
-@media only screen and (max-width: 400px) {
+@media only screen and (max-width: 401px) {
     .icon {
         max-height: 100px;
-        margin: 15px 6px 60px 0;
+        margin: 15px 6px 50px 0;
     }
-    /* .listing button {
-        padding: 0.25em 3.5em;
-    } */
 }
 
 @media only screen and (max-width: 359px) {

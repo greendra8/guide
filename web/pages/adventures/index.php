@@ -6,7 +6,7 @@
         <div class="row">
             <li><a href="/"><i class="fas fa-home"></i> General</a></li>
             <li class="active"><a href="/pages/adventures/"><i class="fas fa-hiking"></i> Adventures</a></li>
-            <li><a href="/"><i class="fas fa-th"></i> Items</a></li>
+            <li><a href="/items"><i class="fas fa-th"></i> Items</a></li>
         </div>
     </div>
     <div class="container main">
