@@ -92,5 +92,62 @@
         </div>
     </div>
 </body>
+<script>
+// Check that service workers are registered
+if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('/sw.js').then(function(reg) {
+        // updatefound is fired if sw.js changes.
+        reg.onupdatefound = function() {
+          var installingWorker = reg.installing;
 
+          installingWorker.onstatechange = function() {
+            switch (installingWorker.state) {
+              case 'installed':
+                if (navigator.serviceWorker.controller) {
+                  // At this point, the old content will have been purged and the fresh content will have been added to the cache.
+                  // It's the perfect time to display a "New content is available; please refresh."
+
+                  // alert pop up
+                    let timerInterval
+                        Swal.fire({
+                          title: 'Update Downloaded!',
+                          html: 'Restart the app to see changes. Closes in <strong></strong> milliseconds.',
+                          timer: 6000,
+                          onBeforeOpen: () => {
+                            Swal.showLoading()
+                            timerInterval = setInterval(() => {
+                              Swal.getContent().querySelector('strong')
+                                .textContent = Swal.getTimerLeft()
+                            }, 100)
+                          },
+                          onClose: () => {
+                            clearInterval(timerInterval)
+                          }
+                        }).then((result) => {
+                          if (
+                            /* Read more about handling dismissals below */
+                            result.dismiss === Swal.DismissReason.timer
+                          ) {
+                            console.log('I was closed by the timer')
+                          }
+                        })
+
+                } else {
+                  // At this point, everything has been precached.
+                  // It's the perfect time to display a "Content is cached for offline use." message.
+                  console.log('Content is now available offline!');
+                }
+                break;
+
+              case 'redundant':
+                console.error('The installing service worker became redundant.');
+                break;
+            }
+          };
+        };
+      }).catch(function(e) {
+        console.error('Error during service worker registration: ', e);
+      });
+    }
+</script>
 </html>
