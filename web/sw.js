@@ -26,6 +26,26 @@ self.__precacheManifest = [
     "revision": "8729b18362441a481c21aa4434e0d33a"
   },
   {
+    "url": "css/font/Minecraft.ttf",
+    "revision": "ba1c2708d8c4295804f8015026e8d7ea"
+  },
+  {
+    "url": "css/font/MinecraftBIG.ttf",
+    "revision": "9a402d6a80ceda873798bf79af582916"
+  },
+  {
+    "url": "css/font/OpenSans.ttf",
+    "revision": "3ed9575dcc488c3e3a5bd66620bdf5a4"
+  },
+  {
+    "url": "css/font/OpenSansBold.ttf",
+    "revision": "1025a6e0fb0fa86f17f57cc82a6b9756"
+  },
+  {
+    "url": "css/font/OpenSansItalic.ttf",
+    "revision": "f6238deb7f40a7a03134c11fb63ad387"
+  },
+  {
     "url": "css/images/background_blurred.png",
     "revision": "39a7764a76c045a4ecabd7bbe7a09d74"
   },
