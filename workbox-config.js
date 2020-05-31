@@ -3,5 +3,8 @@ module.exports = {
   "globPatterns": [
     "**/*.{php,js,png,css,html,ico}"
   ],
-  "swDest": "web\\sw.js"
+  "swDest": "web\\sw.js",
+   "skipWaiting": true,
+   "templatedURLs": { '/': ['index.php']
+}
 };

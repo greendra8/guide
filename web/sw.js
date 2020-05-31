@@ -13,11 +13,7 @@
 
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
-self.addEventListener('message', (event) => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
-  }
-});
+workbox.core.skipWaiting();
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
@@ -27,7 +23,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "about.php",
-    "revision": "83165769275103c2857a72cdf577ab15"
+    "revision": "8729b18362441a481c21aa4434e0d33a"
   },
   {
     "url": "css/images/background_blurred.png",
@@ -492,6 +488,10 @@ self.__precacheManifest = [
   {
     "url": "pwa/app.js",
     "revision": "97fd1dd77a37c16a30751aa9add0968e"
+  },
+  {
+    "url": "/",
+    "revision": "5313927d5d4ad9a56e490f2fac4fb1c0"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
