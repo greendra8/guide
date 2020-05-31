@@ -23,7 +23,7 @@ workbox.core.skipWaiting();
 self.__precacheManifest = [
   {
     "url": "about.php",
-    "revision": "8729b18362441a481c21aa4434e0d33a"
+    "revision": "83165769275103c2857a72cdf577ab15"
   },
   {
     "url": "css/font/Minecraft.ttf",
