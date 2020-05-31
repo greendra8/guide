@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <?php include($_SERVER['DOCUMENT_ROOT'] . "/includes/head.php"); ?>
 
-<body>
+<body ontouchstart="">
     <?php include($_SERVER['DOCUMENT_ROOT'] . "/includes/nav.php"); ?>
     <div class="container menu">
         <div class="row">
