@@ -92,6 +92,7 @@
         </div>
     </div>
 </body>
+<script src="/pwa/app.js"></script>
 <script>
 // Check that service workers are registered
 if ('serviceWorker' in navigator) {
@@ -106,18 +107,17 @@ if ('serviceWorker' in navigator) {
                 if (navigator.serviceWorker.controller) {
                   // At this point, the old content will have been purged and the fresh content will have been added to the cache.
                   // It's the perfect time to display a "New content is available; please refresh."
-                  setTimeout(function() { window.location.reload(true);},5800);
+                  setTimeout(function() { window.location.reload(true);},1400);
                   // alert pop up
                     let timerInterval
                         Swal.fire({
-                          title: 'Updating found!',
-                          html: 'Restarting in <strong></strong> milliseconds.',
-                          timer: 6000,
+                          title: 'Update found!',
+                          html: 'Restarting now...',
+                          timer: 15000,
+                          allowOutsideClick: false,
                           onBeforeOpen: () => {
                             Swal.showLoading()
                             timerInterval = setInterval(() => {
-                              Swal.getContent().querySelector('strong')
-                                .textContent = Swal.getTimerLeft()
                             }, 100)
                           },
                           onClose: () => {
@@ -131,7 +131,6 @@ if ('serviceWorker' in navigator) {
                             console.log('I was closed by the timer')
                           }
                         })
-
                 } else {
                   // At this point, everything has been precached.
                   // It's the perfect time to display a "Content is cached for offline use." message.

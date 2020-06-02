@@ -46,8 +46,28 @@ self.__precacheManifest = [
     "revision": "f6238deb7f40a7a03134c11fb63ad387"
   },
   {
+    "url": "css/fontawesome/css/all.min.css",
+    "revision": "76cb46c10b6c0293433b371bae2414b2"
+  },
+  {
+    "url": "css/fontawesome/webfonts/fa-brands-400.ttf",
+    "revision": "13685372945d816a2b474fc082fd9aaa"
+  },
+  {
+    "url": "css/fontawesome/webfonts/fa-regular-400.ttf",
+    "revision": "db78b9359171f24936b16d84f63af378"
+  },
+  {
+    "url": "css/fontawesome/webfonts/fa-solid-900.ttf",
+    "revision": "1ab236ed440ee51810c56bd16628aef0"
+  },
+  {
     "url": "css/images/background_blurred.png",
     "revision": "39a7764a76c045a4ecabd7bbe7a09d74"
+  },
+  {
+    "url": "css/images/logo.png",
+    "revision": "b8ab568ea4416127f8cc54388904c728"
   },
   {
     "url": "css/style.css",
@@ -59,395 +79,395 @@ self.__precacheManifest = [
   },
   {
     "url": "img/adventure_chest_common.png",
-    "revision": "8735544ced67831825e39935e2c079e9"
+    "revision": "6ae2982a8d5a0d5dedaf1f83780bcd0b"
   },
   {
     "url": "img/adventure_chest_legendary.png",
-    "revision": "e17e4085e23aede0c3a5cc78f5d85c6f"
+    "revision": "e9a740223f9517041c789d0560b2e53d"
   },
   {
     "url": "img/adventure_common.png",
-    "revision": "77a82e53d065d7abddb5d3318b5ef413"
+    "revision": "77a47be6af3cffcc31072b2e1b8f04d9"
   },
   {
     "url": "img/adventure_crystal_common.png",
-    "revision": "9ca3e6f64fc8a7498e9580ad9fd00daf"
+    "revision": "05a1eeac8e214702e7bf656214a24940"
   },
   {
     "url": "img/adventure_crystal_epic_0.png",
-    "revision": "23c16d0f2699c22ab6b72d767a940f3a"
+    "revision": "7bb411dc5142b041608def7d491c3e50"
   },
   {
     "url": "img/adventure_crystal_legendary_0.png",
-    "revision": "1e57276be95980823b7da8d6cdc1a88b"
+    "revision": "e13b9d90c06a8d267e99be8454736099"
   },
   {
     "url": "img/adventure_crystal_rare_0.png",
-    "revision": "5f6c52a95c8e78ffd1c0afa9cda20a52"
+    "revision": "f37b02e1b0dd0cd7a15d2e50a1e6610a"
   },
   {
     "url": "img/adventure_crystal_uncommon.png",
-    "revision": "a7255e63e3fb7c0aada2a540c4cbbc86"
+    "revision": "d81212eec0a4f017ad75deb4c2bdee77"
   },
   {
     "url": "img/adventure_crystals.png",
-    "revision": "6914819162f4e40b0e1df4fe0ddcb5fa"
+    "revision": "df025f82ab6b78e7386a6033349bb293"
   },
   {
     "url": "img/adventure_epic.png",
-    "revision": "8a03d54300672b8a53192d68c53cb502"
+    "revision": "c503dc79092129142a9567859b4deb17"
   },
   {
     "url": "img/adventure_legendary.png",
-    "revision": "35514844c8c8602444408bd71dd96723"
+    "revision": "ff21aae032cfc8369968dc6e0b6d8e01"
   },
   {
     "url": "img/adventure_rare.png",
-    "revision": "d6d866dcc4066c646f035ddd278aa5f3"
+    "revision": "88f62fac31159fabafdc23f03d561715"
   },
   {
     "url": "img/adventure_uncommon.png",
-    "revision": "a03b4ef76666a33a2a6e7f04492434a2"
+    "revision": "d49bda41b15765f539555e976baf3872"
   },
   {
     "url": "img/backpack.png",
-    "revision": "fde7a8eba6a2a40ab8ba584aaaa044f4"
+    "revision": "cd7b08ec21ceb3d49dd67d64cb2ab55e"
   },
   {
     "url": "img/boosts.png",
-    "revision": "eb4b5439d148a414cc017e41bc563591"
+    "revision": "31a012805490c88cfea8ae21aeb6b206"
   },
   {
     "url": "img/buildplate.png",
-    "revision": "d5b58ba0b0d2d4fcd2625373f578fc30"
+    "revision": "d72e893a0db7ef384cb87401c5782224"
   },
   {
     "url": "img/challenges_completed.png",
-    "revision": "8bf282f210fee10b7eede93f5c2ac084"
+    "revision": "a7c684853acb6a6b6ff429afdf240add"
   },
   {
     "url": "img/challenges.png",
-    "revision": "eed4daa6772e5f2d08a188c208e009eb"
+    "revision": "635c1fb4b6d625de18241aae373148d9"
   },
   {
     "url": "img/chest_open.png",
-    "revision": "c866cbcf59cbb51ecaf1f0c2e4d0803d"
+    "revision": "27afa71edb89b70721d7748ded01e674"
   },
   {
     "url": "img/chicken.png",
-    "revision": "6ff25868dbcadfc81e982239c01365cd"
+    "revision": "280b709f341a5c45cdf938fc0fd57796"
   },
   {
     "url": "img/cluckshroom.png",
-    "revision": "9bc6a9ae1e6dedf1a0b39ed181f03cff"
+    "revision": "ace8d26519f88a952dc804780151b75a"
   },
   {
     "url": "img/cow.png",
-    "revision": "214814001fad99de5057ba540f6f6698"
+    "revision": "dc22d35aba9002be5d5166195c68d226"
   },
   {
     "url": "img/crafting.png",
-    "revision": "3eb1f7b89ca567b6fda9fd83dfb4c477"
+    "revision": "52d38907b4f455753fe41d5eb222d787"
   },
   {
     "url": "img/creeper.png",
-    "revision": "48837b5b877c2abc6c0b5e9abfb356d9"
+    "revision": "fce6b026ebf94412588579b12ca4c7d9"
   },
   {
     "url": "img/diamond_ore.png",
-    "revision": "95f96dea8a0034507b8c662fce50759d"
+    "revision": "92d3af758086460175ab73acad90acb0"
   },
   {
     "url": "img/diamond_sword.png",
-    "revision": "264e4c76caa003fca52619093395c5cb"
+    "revision": "ae2f028a92da2baade9b0b789502f8b0"
   },
   {
     "url": "img/diamond.png",
-    "revision": "5b77536171d0e20e63274f7fc35bba16"
+    "revision": "35fabd8a03d4d38569078fedc23da658"
   },
   {
     "url": "img/earth.png",
-    "revision": "8924d49b3827c72029e190deb5f69df2"
+    "revision": "2f3b1ca8868631f8baab9e25ae066e8e"
   },
   {
     "url": "img/fish.png",
-    "revision": "00ef56bc903ffbd54ecc6c163d563f09"
+    "revision": "8c0f691dc23881cb69a724f649d43a6a"
   },
   {
     "url": "img/food.png",
-    "revision": "a565ecd2b9665dd03a05fb942ffcd7f4"
+    "revision": "fea2b4a41564850ddc944e4be1ca43a8"
   },
   {
     "url": "img/friends.png",
-    "revision": "84dec741d4ca64afc74b768df07c7bc3"
+    "revision": "c2a6e88d711c558ae2682b48c847ba63"
   },
   {
     "url": "img/grass-tappable.png",
-    "revision": "0908ed6e12fdf1dbaa3280d1898a0cf1"
+    "revision": "1e6dfb99231c3450a670e525bb06f0ae"
   },
   {
     "url": "img/grass-water-tappable.png",
-    "revision": "c0d424e276893a5446d0902527b9a55e"
+    "revision": "de11081305d647d18dac90bd0d611b68"
   },
   {
     "url": "img/grass.png",
-    "revision": "89621babe1f76788b6fbd258c7e3cf5c"
+    "revision": "2ebfb20bccebb6797e3387ecb69bc13a"
   },
   {
     "url": "img/horned_sheep.png",
-    "revision": "ac49398fec915c6f5dad08e0aa3d7414"
+    "revision": "81582f05b40900fc7b08a7deccb5522f"
   },
   {
     "url": "img/inventory.png",
-    "revision": "59535cbb7f45f73a7c01a0c9774646c7"
+    "revision": "e6df24a6b0321c7d98e1169773f2c3b1"
   },
   {
     "url": "img/jolly_lama.png",
-    "revision": "fe143f67bb3ff01f63af31b9fed55196"
+    "revision": "973b1a1910aff222f6fb6b0eee49079e"
   },
   {
     "url": "img/journal.png",
-    "revision": "b4d7578fd26fcfa8c5c0e9c83f41b6db"
+    "revision": "8618601889ff1e8cbbd5c06d627e22e4"
   },
   {
     "url": "img/jumbo_rabbit.png",
-    "revision": "cbb458f73563db03ad41e047a5181a65"
+    "revision": "1ea96a7df615d13ce6e5d5b6a2c4a861"
   },
   {
     "url": "img/log.png",
-    "revision": "044d2b4326a20989e079892d0aa232d3"
+    "revision": "8850b976f6fbf0540ebf67cf5473e83e"
   },
   {
     "url": "img/logo_t.png",
-    "revision": "b82f11facc625ea3ccffda5c47c19d98"
+    "revision": "47c23f688a46aa986dc3ed9cc3840493"
   },
   {
     "url": "img/logo.png",
-    "revision": "3f0862cd2f75aa8028194443485f4034"
+    "revision": "4c529e6aa5446a1a70794c3a396c3b10"
   },
   {
     "url": "img/makinghub.png",
-    "revision": "f0648673f82725a8df2141a8dae79066"
+    "revision": "3f5bb889ce5b7344aa035c8cd35c1285"
   },
   {
     "url": "img/mining.png",
-    "revision": "616b0dc6c0a921e6d1147438b445eb1d"
+    "revision": "85ba6370e5efee10377ac82144296ed0"
   },
   {
     "url": "img/moobloom.png",
-    "revision": "8eccb2c419f6cef8b5535c8af9ff889b"
+    "revision": "01a927f858acadf1d87d7907dde2b221"
   },
   {
     "url": "img/muddy_pig.png",
-    "revision": "fdff016cb9a509e0dc7f2012fd4872a6"
+    "revision": "c25f3bb56adc478db1783cbf978fb301"
   },
   {
     "url": "img/obsidian.png",
-    "revision": "4262ab6d87abb791fde15d108d764fe9"
+    "revision": "b1f67d4d204476e105d22fc9adb46646"
   },
   {
     "url": "img/ocelot.png",
-    "revision": "f3dd6d2496dff222c893d27b3653d3e4"
+    "revision": "c98952ecd4f11df01c21b3e23826e17b"
   },
   {
     "url": "img/parrot.png",
-    "revision": "6323232dba8fa4fafc7823ab056199e9"
+    "revision": "e370d14cad9cb81c3e9369e09bf0b659"
   },
   {
     "url": "img/pig_black.png",
-    "revision": "affae928cafe5ca46215a7d0f3e4061b"
+    "revision": "cd49268d557b452754beacc298b258c6"
   },
   {
     "url": "img/pig.png",
-    "revision": "87dffd64975193139cf6b1338f74094f"
+    "revision": "101a632566010711fd9212cc785dd9a8"
   },
   {
     "url": "img/planks.png",
-    "revision": "269014c45bde73d95a6106f6a046a2f7"
+    "revision": "986a1b1ac1be349d5a5ebf38a783c64d"
   },
   {
     "url": "img/polarbear.png",
-    "revision": "7b2036b1ce35e7e3c3471b76cd8c14a7"
+    "revision": "b0fca374d75659bec9a20660a0e49ef2"
   },
   {
     "url": "img/profile.png",
-    "revision": "a5e91b73ee3541d61f199268807fc3b8"
+    "revision": "ac443697472dff9900736c1883e1ed44"
   },
   {
     "url": "img/purple_cat.png",
-    "revision": "773676d97eb43899c01ae7ca5ac7f41b"
+    "revision": "e0ecab9918779a7feec92083d30755eb"
   },
   {
     "url": "img/rabbit.png",
-    "revision": "4f54022d09c0556195c552121b39467c"
+    "revision": "914293d5a8b7f4a8832ed5f92a4f973c"
   },
   {
     "url": "img/ruby.png",
-    "revision": "ee6e844d15b922fcb86c787ba7288546"
+    "revision": "fd39a21d69ed227cb6f8b3b86e906ef4"
   },
   {
     "url": "img/scan_code.png",
-    "revision": "61c5eaefb21a5f5e92334353e13fce00"
+    "revision": "8a10f841ef8e43417e3bfcf5ed1bec68"
   },
   {
     "url": "img/seasons.png",
-    "revision": "9cd75af2f0d9bc286352d2e1dafd32bd"
+    "revision": "73a3b057ba5755f60cf954a53f075d3b"
   },
   {
     "url": "img/settings.png",
-    "revision": "cf7f6001a673f8e1dc8888be911c5267"
+    "revision": "1d77999e73be0f7c8085593ed35c6d6f"
   },
   {
     "url": "img/sheep.png",
-    "revision": "ddde27fe28868c78bcfdf3ce2cb58e66"
+    "revision": "fba7d056ebe6840fd51b1e0ef9009fba"
   },
   {
     "url": "img/sign.png",
-    "revision": "41cf704a839a23b2bb5bfafdfb15bdb7"
+    "revision": "84550962c9f519d5e71b0482a968c4d4"
   },
   {
     "url": "img/skeleton.png",
-    "revision": "6e3421220888a172c4bef72ff71b6092"
+    "revision": "19bae11a54e9caeb682d1c8765bdf003"
   },
   {
     "url": "img/skins.png",
-    "revision": "12ef77937502900afdf07d5fbb593192"
+    "revision": "e7c2dbe080726093adadb0434ca7eb26"
   },
   {
     "url": "img/smelting.png",
-    "revision": "2af0c95c64515c807649c64ce85b0d76"
+    "revision": "5d8d7da8d2f236420f04d5c173d87ca9"
   },
   {
     "url": "img/spawn_egg_111.png",
-    "revision": "0bee6fe56850ca311b3218b7134c7856"
+    "revision": "3cedd7dc6d7e3fb0dd69f3e21d4acf95"
   },
   {
     "url": "img/spawn_egg_112.png",
-    "revision": "92a820fb7932cbd1a62bbacc08af29c2"
+    "revision": "0d62244ef1f1e5671942e70fcad3bade"
   },
   {
     "url": "img/spawn_egg_5006.png",
-    "revision": "034763a96dab3136acc2ed98a7025311"
+    "revision": "553de1e46cf97b424c2237cf26ea56cc"
   },
   {
     "url": "img/spawn_egg_5007.png",
-    "revision": "dfc78e8a5131bf9a84d1c226c77b472f"
+    "revision": "f0fbdef2c20d280d5c6e8f848e340520"
   },
   {
     "url": "img/spawn_egg_5008.png",
-    "revision": "26f43d1075a01a430d0c0f5a0af67535"
+    "revision": "724a909ccedf11a5b1d952174f798903"
   },
   {
     "url": "img/spawn_egg_5009.png",
-    "revision": "ef58cb714f05a4e276c42cd5ce00d6bd"
+    "revision": "30abd263b5a2c1b072f5b45dc805cdd4"
   },
   {
     "url": "img/spawn_egg_5011.png",
-    "revision": "e64e55eb19f7bda0d06faaf0ef803862"
+    "revision": "8a01662a65de49f215c51ce41bb99028"
   },
   {
     "url": "img/spawn_egg_5012.png",
-    "revision": "545613887cd87223df2b8954979959b7"
+    "revision": "79f0d4dd83aece9da6100e0fbd18a82d"
   },
   {
     "url": "img/spawn_egg_5013.png",
-    "revision": "29a5a9cc3c9511a24d705d0929b4dd9d"
+    "revision": "06428fb241589ee7eae7b39ab7b8b049"
   },
   {
     "url": "img/spawn_egg_5014.png",
-    "revision": "621c5b33fe7c646dfe343b52b41094c1"
+    "revision": "18aba027857e27c61a3d6908af0c5347"
   },
   {
     "url": "img/spawn_egg_5015.png",
-    "revision": "7993c5925580ab9a679643e5c7b8368b"
+    "revision": "847c5453d4e30c611c16cfdb73ca8ffe"
   },
   {
     "url": "img/spawn_egg_5020.png",
-    "revision": "5f9bb11f5cef1b93d20437f8d6185ff5"
+    "revision": "08814cc38b4273799ff6db1bd939a701"
   },
   {
     "url": "img/spawn_egg_5022.png",
-    "revision": "8bf95bbb14a2663c58c77730602740ff"
+    "revision": "5623fd7257f0c3344701d1fcdf7056eb"
   },
   {
     "url": "img/spawn_egg_5023.png",
-    "revision": "a11a7b3d441ef7899c115138179215e7"
+    "revision": "e94e6831d9ef20fb4aa374e04400c284"
   },
   {
     "url": "img/spawn_egg_5026.png",
-    "revision": "95e8faea55c1bfd98fa5139f88c77608"
+    "revision": "cf850afbc7421e7e7a7c22ee4289358c"
   },
   {
     "url": "img/spawn_egg_5028.png",
-    "revision": "57335d5ce9f55ed8afd34241a921e4d9"
+    "revision": "4bd566e140cbcc88b18646d9a341f043"
   },
   {
     "url": "img/spawn_egg_5031.png",
-    "revision": "f82a29115e8fa4ef8830c9a6992b8710"
+    "revision": "523616d2f2457d6d13b10192bfc99641"
   },
   {
     "url": "img/spawn_egg_5033.png",
-    "revision": "3a93ec335c80e75588a0db101232a4b7"
+    "revision": "7453ddcb23887719d1af4e618a933149"
   },
   {
     "url": "img/spawn_egg_5040.png",
-    "revision": "0a3f2a8d927de1bdc15a1513778d1ec4"
+    "revision": "6347b877cf2c8578d9f86dfade1bc827"
   },
   {
     "url": "img/spawn_egg_5041.png",
-    "revision": "c9d7af046489d9722bea06a435cbe37c"
+    "revision": "f35d260eb2a2ed43c4494f21b84051f8"
   },
   {
     "url": "img/spawn_egg_5047.png",
-    "revision": "070fe4f1606ae53c35309ce4502c52ae"
+    "revision": "0fd0b0564644506e7023ca25f2a88689"
   },
   {
     "url": "img/spawn_egg_5049.png",
-    "revision": "2e70dcd1f728fe3f5aa4318284236932"
+    "revision": "7aade87f3422569d24f3b17a73cc64a4"
   },
   {
     "url": "img/spawn_egg_9.png",
-    "revision": "9df7d302140f3c9cd173f6a8ab5f0574"
+    "revision": "d7abe1d835efc133e55a798d45935758"
   },
   {
     "url": "img/spider.png",
-    "revision": "5f0897721539c02e543a46935cb45539"
+    "revision": "8a8b8c1efd2312840bf6e5a134ab6fb0"
   },
   {
     "url": "img/spruce-tappable.png",
-    "revision": "2118f1dcf6d1562d0943fb2346d1eb78"
+    "revision": "243eb79a53f1f19db57c28131b7dfa85"
   },
   {
     "url": "img/stone-tappable.png",
-    "revision": "aec29f9a4c67134182db3565b370176e"
+    "revision": "0a7d42e9bc2f7c0ebacc83d8eff191ae"
   },
   {
     "url": "img/store.png",
-    "revision": "95dfe6042b18d99238c58bd537f2b811"
+    "revision": "9729bc4412246d3647104662add088da"
   },
   {
     "url": "img/tappable_challenge_legendary.png",
-    "revision": "3407db56797093d413c17924de53b7a5"
+    "revision": "9a9a9fdb11615de6e1a81244bcb8a627"
   },
   {
     "url": "img/wooden_sword.png",
-    "revision": "df0ba1a0d1996570a11e779c18610aa5"
+    "revision": "688a5dd8d03242066ef32145b22c8e70"
   },
   {
     "url": "img/wooly_cow.png",
-    "revision": "e68649ef202c1831dd111fa8242ca1df"
+    "revision": "a987a2818a9705c64199a3649ee0fdba"
   },
   {
     "url": "img/xp.png",
-    "revision": "8cff11e92653792cdac968d3f31443ca"
+    "revision": "ecece64ae4233702d0561dff29fd50b4"
   },
   {
     "url": "img/zombie.png",
-    "revision": "1766e1f26d7ab90b9c61fb9e6af3a6db"
+    "revision": "49310484f8168020782c14c4f8e099ab"
   },
   {
     "url": "includes/head.php",
-    "revision": "9004fac0327e4925a982fa4a78fdb3e6"
+    "revision": "8a304bf1a471c0102fff3b9fa2dc7727"
   },
   {
     "url": "includes/nav.php",
@@ -455,7 +475,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "cdc3f25b33f62adec7129485dae98374"
+    "revision": "6a9ee775919222338a925c12a9923e6f"
   },
   {
     "url": "items.php",
@@ -511,7 +531,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/",
-    "revision": "a03ee4a537344cb9c3599adc688a8fad"
+    "revision": "a7055a96ae5e7563f0777c431c067ff3"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
