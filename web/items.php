@@ -6,8 +6,8 @@
     <div class="container menu">
         <div class="row">
             <li><a href="/"><i class="fas fa-home"></i> General</a></li>
-            <li><a href="/pages/adventures/index"><i class="fas fa-hiking"></i> Adventures</a></li>
-            <li class="active"><a href="/items"><i class="fas fa-th"></i> Items</a></li>
+            <li><a href="/pages/adventures/index.php"><i class="fas fa-hiking"></i> Adventures</a></li>
+            <li class="active"><a href="/items.php"><i class="fas fa-th"></i> Items</a></li>
         </div>
     </div>
     <div class="container main">

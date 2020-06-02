@@ -51,7 +51,7 @@ self.__precacheManifest = [
   },
   {
     "url": "css/style.css",
-    "revision": "ac661d6402b5008b964a9ec5531e6c67"
+    "revision": "3978eb7e213e64c7fc14ed97ffe71fed"
   },
   {
     "url": "favicon.ico",
@@ -451,19 +451,19 @@ self.__precacheManifest = [
   },
   {
     "url": "includes/nav.php",
-    "revision": "114752ae10ded254d0900ab392e73f7e"
+    "revision": "5029611de3ff5612c95113b7fc255a7a"
   },
   {
     "url": "index.php",
-    "revision": "11a9f8305c040c1174cd429dfbf58a2e"
+    "revision": "24536b34c6030d82faa652c2765b3def"
   },
   {
     "url": "items.php",
-    "revision": "7e52bb40c8498b4573635e07991a4e88"
+    "revision": "3560a761ef85424917b41ae136b68e14"
   },
   {
     "url": "pages/adventures/index.php",
-    "revision": "563c1062555e2752bea987fbefc8088b"
+    "revision": "0e31636b76e78a5d34d330b6d394e32c"
   },
   {
     "url": "pages/adventures/squid_tank.php",
@@ -511,7 +511,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/",
-    "revision": "4e9d308cb70f5e28f010abce2a6c2bd6"
+    "revision": "b59618fc14ec0cb8f97841a7e477f8b1"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

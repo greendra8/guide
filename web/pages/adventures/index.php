@@ -7,13 +7,13 @@
     <div class="container menu">
         <div class="row">
             <li><a href="/"><i class="fas fa-home"></i> General</a></li>
-            <li class="active"><a href="/pages/adventures/index"><i class="fas fa-hiking"></i> Adventures</a></li>
-            <li><a href="/items"><i class="fas fa-th"></i> Items</a></li>
+            <li class="active"><a href="/pages/adventures/index.php"><i class="fas fa-hiking"></i> Adventures</a></li>
+            <li><a href="/items.php"><i class="fas fa-th"></i> Items</a></li>
         </div>
     </div>
     <div class="container main">
         <hr>
-        <div style="min-height: 0;" class="row listing">
+        <div style="min-height: 0; margin-bottom: 15px; text-align: center;" class="row listing">
             <p>Solutions to Adventures thanks to r/Minecraft_Earth</p>
         </div>
 
