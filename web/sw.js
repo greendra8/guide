@@ -23,7 +23,7 @@ workbox.core.skipWaiting();
 self.__precacheManifest = [
   {
     "url": "about.php",
-    "revision": "f19eed4fa96ccae960dc3b46a49cc25a"
+    "revision": "83165769275103c2857a72cdf577ab15"
   },
   {
     "url": "css/font/Minecraft.ttf",
@@ -455,7 +455,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "810251ab7f55763a570ba5398ca03c22"
+    "revision": "f6bd24814b0a0affb32beaa4fb827d0d"
   },
   {
     "url": "items.php",
@@ -511,7 +511,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/",
-    "revision": "631bbcf75b5b00c64e71783093cef185"
+    "revision": "199f1cf797b229db6eb96183d7f19307"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

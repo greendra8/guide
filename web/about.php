@@ -5,7 +5,7 @@
     <?php include($_SERVER['DOCUMENT_ROOT'] . "/includes/nav.php"); ?>
     <div class="container main">
         <div class="row content">
-            <h1>Aboutt</h1>
+            <h1>About</h1>
             <p>The Minecraft Earth Guide app is an unofficial Minecraft Earth guide with the aim of quickly and efficiently informing players on how to perform Minecraft Earth related tasks, and was created with the intent to educate players in an easy and simple manor.</p>
             <img src="/img/logo.png" class="rounded mx-auto d-block img">
             <p>The Minecraft Earth Guide App is not affiliated or associated with Minecraft, Mojang or Microsoft, or any official body in connection with the Minecraft Earth project.</p>
