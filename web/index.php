@@ -106,12 +106,12 @@ if ('serviceWorker' in navigator) {
                 if (navigator.serviceWorker.controller) {
                   // At this point, the old content will have been purged and the fresh content will have been added to the cache.
                   // It's the perfect time to display a "New content is available; please refresh"
-                  setTimeout(function() { window.location.reload(true);},5000);
+                  setTimeout(function() { window.location.reload(true);},5800);
                   // alert pop up
                     let timerInterval
                         Swal.fire({
-                          title: 'Updating...',
-                          html: 'The app is restarting. Please wait <br> Closes in <strong></strong> milliseconds.',
+                          title: 'Updating found!',
+                          html: 'Restarting in <strong></strong> milliseconds.',
                           timer: 6000,
                           onBeforeOpen: () => {
                             Swal.showLoading()
