@@ -3,7 +3,11 @@
 
 <body>
     <?php include($_SERVER['DOCUMENT_ROOT'] . "/includes/nav.php"); ?>
-    <style>.icon { margin-top: 0;}</style>
+    <style>
+    .icon {
+        margin-top: 0;
+    }
+    </style>
     <div class="container menu">
         <div class="row">
             <li><a href="/"><i class="fas fa-home"></i> General</a></li>
@@ -13,7 +17,8 @@
     </div>
     <div class="container main">
         <hr>
-        <div style="min-height: 0; margin-bottom: 15px; text-align: center; background: rgba(16,30,60,0.82)!important;" class="row listing soon">
+        <div style="min-height: 0; margin-bottom: 15px; text-align: center; background: rgba(16,30,60,0.82)!important;"
+            class="row listing soon">
             <p>Solutions to Adventures thanks to r/Minecraft_Earth</p>
         </div>
 
@@ -37,4 +42,6 @@
     </div>
 
 </body>
+
 </html>
+<!-- JGI84 -->

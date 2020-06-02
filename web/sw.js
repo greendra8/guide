@@ -23,7 +23,7 @@ workbox.core.skipWaiting();
 self.__precacheManifest = [
   {
     "url": "about.php",
-    "revision": "83165769275103c2857a72cdf577ab15"
+    "revision": "26ecb478e774972f9b052e922446a7e3"
   },
   {
     "url": "css/font/Minecraft.ttf",
@@ -467,63 +467,63 @@ self.__precacheManifest = [
   },
   {
     "url": "includes/head.php",
-    "revision": "8a304bf1a471c0102fff3b9fa2dc7727"
+    "revision": "036ad7e3ae369bdbb44d2f8f3a7958f7"
   },
   {
     "url": "includes/nav.php",
-    "revision": "ecf4f8bcefa1795eda1ae79ad01b5494"
+    "revision": "216762cad07fd33917cd4709085a8f5d"
   },
   {
     "url": "index.php",
-    "revision": "6a9ee775919222338a925c12a9923e6f"
+    "revision": "7bbaf82bb393f13f72abf99e7c31154e"
   },
   {
     "url": "items.php",
-    "revision": "3560a761ef85424917b41ae136b68e14"
+    "revision": "6ea84a762e409857560deece85285c07"
   },
   {
     "url": "pages/adventures/index.php",
-    "revision": "77d828935e0a8dd8c59008a8c1fdd7ec"
+    "revision": "ed8af8b54903b58b93e05dc94b628667"
   },
   {
     "url": "pages/adventures/squid_tank.php",
-    "revision": "d0378c5beb3f4b25126a2c7294a4651f"
+    "revision": "e6e60c3d71a61becc1d5ff7a6b943753"
   },
   {
     "url": "pages/adventures/yin_yang.php",
-    "revision": "6eb96aa30835fcdc485b0ed15b787716"
+    "revision": "b1b5eed88023bcb586a5171dc2033a3e"
   },
   {
     "url": "pages/general/adventures.php",
-    "revision": "ef3adca261c5793f5db31fb08bbb20c8"
+    "revision": "9757ce383764057354aaf96cbabd1e75"
   },
   {
     "url": "pages/general/challenges.php",
-    "revision": "04809e93de43804412e874c2d529d226"
+    "revision": "8cdacbef8c74a1302797b4d46741df9b"
   },
   {
     "url": "pages/general/introduction.php",
-    "revision": "83a1d857c7416e47e4f8da23419e55ab"
+    "revision": "8303321e815c4c09582d6ca73fa85ee4"
   },
   {
     "url": "pages/general/inventory.php",
-    "revision": "d1ac80ded767f9398e01f11a10919efc"
+    "revision": "3229b822f89f7eed4b7b2108e76b25ae"
   },
   {
     "url": "pages/general/journal.php",
-    "revision": "0a5299c39f9e8161a2396d17225ef7d3"
+    "revision": "db386966f941d417377f423e77bcaafc"
   },
   {
     "url": "pages/general/profile.php",
-    "revision": "e2edfbfab0c8cb19697cb6fa5a737441"
+    "revision": "556247d208b3570dc519c3032acca884"
   },
   {
     "url": "pages/general/seasons.php",
-    "revision": "3f74810617a0b677645e758a6f18be9b"
+    "revision": "a375b2e956a8f2eec7ed7fe260c9480e"
   },
   {
     "url": "pages/general/tappables.php",
-    "revision": "4651aa79948ddd341c6b9849b512f748"
+    "revision": "9c75110ac8f6c9175d0d52ce4ce14c8f"
   },
   {
     "url": "pwa/app.js",
@@ -531,7 +531,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/",
-    "revision": "a7055a96ae5e7563f0777c431c067ff3"
+    "revision": "e00184bd6774f967fee053cdf0d6ceeb"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
