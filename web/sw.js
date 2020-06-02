@@ -26,6 +26,14 @@ self.__precacheManifest = [
     "revision": "6dffd4d567b5bc604b245dfdeb9cd743"
   },
   {
+    "url": "css/bootstrap.min.css",
+    "revision": "7f89537eaf606bff49f5cc1a7c24dbca"
+  },
+  {
+    "url": "css/bootstrap/bootstrap.min.css",
+    "revision": "3afe15e976734d9daac26310110c4594"
+  },
+  {
     "url": "css/font/Minecraft.ttf",
     "revision": "ba1c2708d8c4295804f8015026e8d7ea"
   },
@@ -467,11 +475,11 @@ self.__precacheManifest = [
   },
   {
     "url": "includes/head.php",
-    "revision": "e4fdad771dfd32aacc0b047c2664b2c1"
+    "revision": "2b7c03aa9efec5d6ba2732cb449f2da7"
   },
   {
     "url": "includes/nav.php",
-    "revision": "5fcb85cda66cb3fe54792e048cfa277c"
+    "revision": "f04814f5cefcb77e75670ccec7794358"
   },
   {
     "url": "index.php",
