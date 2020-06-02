@@ -1,6 +1,6 @@
 {
-    "name": "Guide App",
-    "short_name": "GuideApp",
+    "name": "MCE Guide",
+    "short_name": "MCE Guide",
     "start_url": "/",
     "display": "standalone",
     "orientation": "portrait-primary"    
