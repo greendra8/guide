@@ -83,11 +83,12 @@ body::after {
 }
 
 .menu li:hover {
-    background: #00000047;
+    background: rgba(0, 0, 0, 0.2784313725490196);
 }
 
 .active {
-    background: #00000047;
+    background: rgba(0, 0, 0, 0.2784313725490196);
+
 }
 
 .menu li a {
@@ -107,7 +108,7 @@ body::after {
 }
 
 .listing {
-    background: #101e3cd1;
+    background: rgba(16, 30, 60, 0.8196078431372549);
     color: #fff;
     margin: 0;
     padding: 10px;
@@ -119,11 +120,11 @@ body::after {
 .listing:active {
     padding: 9px;
     border: 1px solid #fff;
-    background: #18284ad1;
+    background: rgba(24, 40, 74, 0.8196078431372549);
 }
 
 .listing h3 {
-    color: #F1E1A4;
+    color: rgba(241,225,164,1.0);
     font-size: 1em;
 }
 
@@ -153,7 +154,7 @@ body::after {
 
 
 .content {
-    background: #101e3cd1;
+    background: rgba(16, 30, 60, 0.8196078431372549);
     color: #fff;
     margin: 60px 0 20px 0;
     padding: 10px;
@@ -163,7 +164,7 @@ body::after {
 
 .content h1, .content h2, .content h3, .content h4 {
     font-family: opensans;
-    color: #F1E1A4;
+    color: rgba(241,225,164,1.0);
     font-weight: bold;
 }
 
@@ -200,8 +201,8 @@ body::after {
     padding: 0.5em 0;
     width: 100%;
     text-align: center;
-    background: #35B02E;
-    color: white;
+    background: rgba(53,176,46,1.0);
+    color: #fff;
 }
 
 .col {
@@ -224,7 +225,7 @@ body::after {
 
 .soon, soon:active {
     border-radius: 5px;
-    background: linear-gradient(to bottom right, #95989a, #475265)!important;
+    background: linear-gradient(to bottom right, rgba(149,152,154,1.0), rgba(71,82,101,1.0))!important;
     border: none!important;
     padding: 10px!important;
 }
@@ -239,8 +240,8 @@ body::after {
 }
 
 nav {
-    background: linear-gradient(to bottom right, #C9CCCE, #617088);
-    border-bottom: 4px solid #D5D9DF;
+    background: linear-gradient(to bottom right, rgba(201,204,206,1.0), rgba(97,112,136,1.0));
+    border-bottom: 4px solid rgba(213,217,223,1.0);
     -webkit-box-shadow: 0px 10px 22px 0px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 10px 22px 0px rgba(0, 0, 0, 0.75);
     box-shadow: 0px 10px 22px 0px rgba(0, 0, 0, 0.75);
@@ -261,7 +262,7 @@ nav h1 {
 nav small {
     font-family: MinecraftBIG;
     float: left;
-    color: #454545ba;
+    color: rgba(69, 69, 69, 0.7294117647058823);
     font-size: 0.6em;
     padding: 21px 0 11px 2px;
     white-space: nowrap;
@@ -273,7 +274,7 @@ nav:hover {
 }
 
 select {
-    background: #101f3c url(data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ljk1IDEwIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6IzEwMWUzY2QxO30uY2xzLTJ7ZmlsbDojNDQ0O308L3N0eWxlPjwvZGVmcz48dGl0bGU+YXJyb3dzPC90aXRsZT48cmVjdCBjbGFzcz0iY2xzLTEiIHdpZHRoPSI0Ljk1IiBoZWlnaHQ9IjEwIi8+PHBvbHlnb24gY2xhc3M9ImNscy0yIiBwb2ludHM9IjEuNDEgNC42NyAyLjQ4IDMuMTggMy41NCA0LjY3IDEuNDEgNC42NyIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMiIgcG9pbnRzPSIzLjU0IDUuMzMgMi40OCA2LjgyIDEuNDEgNS4zMyAzLjU0IDUuMzMiLz48L3N2Zz4=) no-repeat 95% 50%;
+    background: rgb(16, 31, 60) url(data:image/svg+xml;base64,PHN2ZyBpZD0iTGF5ZXJfMSIgZGF0YS1uYW1lPSJMYXllciAxIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0Ljk1IDEwIj48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6IzEwMWYzYzt9LmNscy0ye2ZpbGw6IzQ0NDt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPmFycm93czwvdGl0bGU+PHJlY3QgY2xhc3M9ImNscy0xIiB3aWR0aD0iNC45NSIgaGVpZ2h0PSIxMCIvPjxwb2x5Z29uIGNsYXNzPSJjbHMtMiIgcG9pbnRzPSIxLjQxIDQuNjcgMi40OCAzLjE4IDMuNTQgNC42NyAxLjQxIDQuNjciLz48cG9seWdvbiBjbGFzcz0iY2xzLTIiIHBvaW50cz0iMy41NCA1LjMzIDIuNDggNi44MiAxLjQxIDUuMzMgMy41NCA1LjMzIi8+PC9zdmc+) no-repeat 95% 50%;
     border-radius: 5px;
     -moz-appearance: none;
     -webkit-appearance: none;
@@ -300,11 +301,11 @@ body {
     padding: 5px 0 5px 8px;
     margin-left: 10px;
     border: none;
-    color: #ffffff;
+    color: #fff;
 }
 
 .goog-te-combo option {
-    background: #112240;
+    background: rgb(17, 34, 64);
     font-family: opensans;
     font-size: 12px;
 }
@@ -324,7 +325,7 @@ i {
 }
 
 hr {
-    border-top: 3px solid #ffffff30;
+    border-top: 3px solid rgba(255, 255, 255, 0.18823529411764706);
 }
 
 .listing button {
@@ -332,9 +333,9 @@ hr {
     border: none;
     padding: 0.25em 5em 0.25em 1em;
     text-align: left;
-    background: linear-gradient(-120deg, transparent 1em, #35B02E 1.05em) top no-repeat, linear-gradient(300deg, transparent 1em, #35B02E 1.05em) bottom no-repeat;
+    background: linear-gradient(-120deg, transparent 1em, rgba(53,176,46,1.0) 1.05em) top no-repeat, linear-gradient(300deg, transparent 1em, rgba(53,176,46,1.0) 1.05em) bottom no-repeat;
     background-size: 100% 50%;
-    color: white;
+    color: #fff;
 }
 
 .listing button:focus {
@@ -368,8 +369,8 @@ hr {
         padding: 0.25em 0;
         width: 100%;
         text-align: center;
-        background: #35B02E;
-        color: white;
+        background: rgba(53,176,46,1.0);
+        color: #fff;
     }
     nav {
         height: 50px;

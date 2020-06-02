@@ -51,7 +51,7 @@ self.__precacheManifest = [
   },
   {
     "url": "css/style.css",
-    "revision": "3978eb7e213e64c7fc14ed97ffe71fed"
+    "revision": "895dc4b8adf9856b9342cd7249fc35c4"
   },
   {
     "url": "favicon.ico",
@@ -463,7 +463,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/adventures/index.php",
-    "revision": "0e31636b76e78a5d34d330b6d394e32c"
+    "revision": "77d828935e0a8dd8c59008a8c1fdd7ec"
   },
   {
     "url": "pages/adventures/squid_tank.php",

@@ -13,7 +13,7 @@
     </div>
     <div class="container main">
         <hr>
-        <div style="min-height: 0; margin-bottom: 15px; text-align: center;" class="row listing">
+        <div style="min-height: 0; margin-bottom: 15px; text-align: center; background: rgba(16,30,60,0.82)!important;" class="row listing soon">
             <p>Solutions to Adventures thanks to r/Minecraft_Earth</p>
         </div>
 
