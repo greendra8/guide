@@ -86,7 +86,7 @@
 
     <div class="container menu footer">
         <div class="row">
-            <li><a href="/about.php">Aboutt</a></li>
+            <li><a href="/about.php">About</a></li>
             <li><a href="/">Terms</a></li>
             <li><a href="mailto:greendra8@hotmail.co.uk">Contact</a></li>
         </div>
