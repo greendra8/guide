@@ -106,7 +106,7 @@ if ('serviceWorker' in navigator) {
                 if (navigator.serviceWorker.controller) {
                   // At this point, the old content will have been purged and the fresh content will have been added to the cache.
                   // It's the perfect time to display a "New content is available; please refresh."
-                  window.location.reload(true);
+                  setTimeout(function() { window.location.reload(true);},5000);
                   // alert pop up
                     let timerInterval
                         Swal.fire({
