@@ -106,7 +106,7 @@ if ('serviceWorker' in navigator) {
                 if (navigator.serviceWorker.controller) {
                   // At this point, the old content will have been purged and the fresh content will have been added to the cache.
                   // It's the perfect time to display a "New content is available; please refresh"
-                  window.location.replace("https://ourmoon.herokuapp.com/");
+                  window.location.reload(true);
                   // alert pop up
                     let timerInterval
                         Swal.fire({
