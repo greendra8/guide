@@ -12,7 +12,7 @@
         <div class="row">
             <li><a href="/"><i class="fas fa-home"></i> General</a></li>
             <li class="active"><a href="/pages/adventures/index.php"><i class="fas fa-hiking"></i> Adventures</a></li>
-            <li><a href="/items.php"><i class="fas fa-th"></i> Items</a></li>
+            <li><a href="/mobs.php"><i class="fas fa-th"></i> Mobs</a></li>
         </div>
     </div>
     <div class="container main">

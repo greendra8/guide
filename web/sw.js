@@ -79,7 +79,11 @@ self.__precacheManifest = [
   },
   {
     "url": "css/style.css",
-    "revision": "895dc4b8adf9856b9342cd7249fc35c4"
+    "revision": "302ae44b8262dd38bb14f309d40bb5eb"
+  },
+  {
+    "url": "css/sweetalert2/sweetalert2.min.js",
+    "revision": "23a12d80ff46142d873b364b49c4d5dc"
   },
   {
     "url": "favicon.ico",
@@ -140,6 +144,18 @@ self.__precacheManifest = [
   {
     "url": "img/backpack.png",
     "revision": "cd7b08ec21ceb3d49dd67d64cb2ab55e"
+  },
+  {
+    "url": "img/bat.png",
+    "revision": "d7abe1d835efc133e55a798d45935758"
+  },
+  {
+    "url": "img/bone_spider.png",
+    "revision": "553de1e46cf97b424c2237cf26ea56cc"
+  },
+  {
+    "url": "img/bone_wolf.png",
+    "revision": "30abd263b5a2c1b072f5b45dc805cdd4"
   },
   {
     "url": "img/boosts.png",
@@ -210,6 +226,14 @@ self.__precacheManifest = [
     "revision": "c2a6e88d711c558ae2682b48c847ba63"
   },
   {
+    "url": "img/furnace_golem.png",
+    "revision": "8a01662a65de49f215c51ce41bb99028"
+  },
+  {
+    "url": "img/glowing_squid.png",
+    "revision": "724a909ccedf11a5b1d952174f798903"
+  },
+  {
     "url": "img/grass-tappable.png",
     "revision": "1e6dfb99231c3450a670e525bb06f0ae"
   },
@@ -256,6 +280,10 @@ self.__precacheManifest = [
   {
     "url": "img/makinghub.png",
     "revision": "3f5bb889ce5b7344aa035c8cd35c1285"
+  },
+  {
+    "url": "img/melon_golem.png",
+    "revision": "79f0d4dd83aece9da6100e0fbd18a82d"
   },
   {
     "url": "img/mining.png",
@@ -354,34 +382,6 @@ self.__precacheManifest = [
     "revision": "0d62244ef1f1e5671942e70fcad3bade"
   },
   {
-    "url": "img/spawn_egg_5006.png",
-    "revision": "553de1e46cf97b424c2237cf26ea56cc"
-  },
-  {
-    "url": "img/spawn_egg_5007.png",
-    "revision": "f0fbdef2c20d280d5c6e8f848e340520"
-  },
-  {
-    "url": "img/spawn_egg_5008.png",
-    "revision": "724a909ccedf11a5b1d952174f798903"
-  },
-  {
-    "url": "img/spawn_egg_5009.png",
-    "revision": "30abd263b5a2c1b072f5b45dc805cdd4"
-  },
-  {
-    "url": "img/spawn_egg_5011.png",
-    "revision": "8a01662a65de49f215c51ce41bb99028"
-  },
-  {
-    "url": "img/spawn_egg_5012.png",
-    "revision": "79f0d4dd83aece9da6100e0fbd18a82d"
-  },
-  {
-    "url": "img/spawn_egg_5013.png",
-    "revision": "06428fb241589ee7eae7b39ab7b8b049"
-  },
-  {
     "url": "img/spawn_egg_5014.png",
     "revision": "18aba027857e27c61a3d6908af0c5347"
   },
@@ -434,10 +434,6 @@ self.__precacheManifest = [
     "revision": "7aade87f3422569d24f3b17a73cc64a4"
   },
   {
-    "url": "img/spawn_egg_9.png",
-    "revision": "d7abe1d835efc133e55a798d45935758"
-  },
-  {
     "url": "img/spider.png",
     "revision": "8a8b8c1efd2312840bf6e5a134ab6fb0"
   },
@@ -458,6 +454,10 @@ self.__precacheManifest = [
     "revision": "9a9a9fdb11615de6e1a81244bcb8a627"
   },
   {
+    "url": "img/tropical_slime.png",
+    "revision": "06428fb241589ee7eae7b39ab7b8b049"
+  },
+  {
     "url": "img/wooden_sword.png",
     "revision": "688a5dd8d03242066ef32145b22c8e70"
   },
@@ -475,7 +475,7 @@ self.__precacheManifest = [
   },
   {
     "url": "includes/head.php",
-    "revision": "2b7c03aa9efec5d6ba2732cb449f2da7"
+    "revision": "57624445c699e67e4233104f93996569"
   },
   {
     "url": "includes/nav.php",
@@ -483,15 +483,15 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "603aeeac8f94dc7f68862152489feb5a"
+    "revision": "c7194b44b2e451ebfbf7ecb5928acb01"
   },
   {
-    "url": "items.php",
-    "revision": "65cc631f99f01e2c075deb13432f4bf3"
+    "url": "mobs.php",
+    "revision": "825b04f5b0a09805da5235ea012e95ec"
   },
   {
     "url": "pages/adventures/index.php",
-    "revision": "a14fa7943f2daa9d93a537ba6744aa2c"
+    "revision": "66a8f49746c89679917f548039529b10"
   },
   {
     "url": "pages/adventures/squid_tank.php",
@@ -535,11 +535,15 @@ self.__precacheManifest = [
   },
   {
     "url": "pwa/app.js",
-    "revision": "97fd1dd77a37c16a30751aa9add0968e"
+    "revision": "a1f0b24b8ed051506a3e0748c4d98ed9"
+  },
+  {
+    "url": "pwa/pwa.js",
+    "revision": "64599b97d4ddfb3c1a603f01aed92d2d"
   },
   {
     "url": "/",
-    "revision": "549f476e798fdef5bf0358041c4bb240"
+    "revision": "d059a5bd322fcacaf7f7ebc7d409bef8"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

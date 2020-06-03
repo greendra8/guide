@@ -25,9 +25,6 @@
     font-style: italic;
 }
 
-div:empty {
-    display:none;
-  }
 
 /* elements */
 
@@ -214,7 +211,8 @@ body::after {
 }
 
 .item {
-    max-width: 23%;
+    width: 31%;
+    max-width: 200px;
     margin-bottom: 10px;
 }
 
@@ -316,6 +314,7 @@ body {
 
 .goog-te-gadget {
     color: transparent !important;
+    height: 37px;
 }
 
 i {
