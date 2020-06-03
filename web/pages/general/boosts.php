@@ -28,7 +28,7 @@
             <p><strong>Food boost</strong> - Food restores more health</p>
             <p><strong>Health boost</strong> - Increased max health</p>
             <img src="/img/xp_boost.png" class="rounded mx-auto d-block img">
-            <p>You can earn boosts by <strong>completing daily and tappable challenges</strong>. They can also be collected from season
+            <p>You can earn boosts by logging in daily and by <strong>completing daily challenges and tappable challenges</strong>. They can also be collected from season
                 challenges and bought in the store in exchange for rubies.</p>
             <p>You can use up to <strong>5 boosts at once</strong>. However each boost token can only be used once, so be sure to save some for
                 when you most need them!</p>

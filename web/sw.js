@@ -519,7 +519,7 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/general/boosts.php",
-    "revision": "8d1a111b93f57070f963396dcf810602"
+    "revision": "6ca995dbc2a093e4372cf38e6074652d"
   },
   {
     "url": "pages/general/challenges.php",
