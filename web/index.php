@@ -97,7 +97,7 @@
 // Check that service workers are registered
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('/sw.js').then(function(reg) {
-        // updatefound is fired if sw.js changes.
+        // updatefound is fired if sw.js changes
         reg.onupdatefound = function() {
             var installingWorker = reg.installing;
 
