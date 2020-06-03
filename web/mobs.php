@@ -43,7 +43,7 @@
                 <img src="/img/spawn_egg_111.png" class="rounded item">
                 <img src="/img/spawn_egg_112.png" class="rounded item">
                 <img src="/img/parrot.png" class="rounded item">
-                <img src="/img/bat" class="rounded item">
+                <img src="/img/bat.png" class="rounded item">
                 <img src="/img/bone_wolf.png" class="rounded item">
                 <img src="/img/glowing_squid.png" class="rounded item">
                 <img src="/img/furnace_golem.png" class="rounded item">

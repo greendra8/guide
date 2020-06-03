@@ -487,7 +487,7 @@ self.__precacheManifest = [
   },
   {
     "url": "mobs.php",
-    "revision": "825b04f5b0a09805da5235ea012e95ec"
+    "revision": "864a7cb0fcc5e66cd251fb613d75d348"
   },
   {
     "url": "pages/adventures/index.php",
