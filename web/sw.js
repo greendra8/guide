@@ -286,6 +286,10 @@ self.__precacheManifest = [
     "revision": "79f0d4dd83aece9da6100e0fbd18a82d"
   },
   {
+    "url": "img/mining_boost.png",
+    "revision": "ef915b1f94111788752072e5bd6a5adc"
+  },
+  {
     "url": "img/mining.png",
     "revision": "85ba6370e5efee10377ac82144296ed0"
   },
@@ -458,12 +462,20 @@ self.__precacheManifest = [
     "revision": "06428fb241589ee7eae7b39ab7b8b049"
   },
   {
+    "url": "img/undying.png",
+    "revision": "8b395b17e6134cb78e1abf035943c08e"
+  },
+  {
     "url": "img/wooden_sword.png",
     "revision": "688a5dd8d03242066ef32145b22c8e70"
   },
   {
     "url": "img/wooly_cow.png",
     "revision": "a987a2818a9705c64199a3649ee0fdba"
+  },
+  {
+    "url": "img/xp_boost.png",
+    "revision": "640e85350329271fc76203ddee0315ba"
   },
   {
     "url": "img/xp.png",
@@ -483,7 +495,7 @@ self.__precacheManifest = [
   },
   {
     "url": "index.php",
-    "revision": "30f15fb13b89f5e6d7714fb095d77104"
+    "revision": "ff2111222ae04fcd77de383b1d3ee76b"
   },
   {
     "url": "mobs.php",
@@ -504,6 +516,10 @@ self.__precacheManifest = [
   {
     "url": "pages/general/adventures.php",
     "revision": "55a4d0930662334080ede8e4beea65d0"
+  },
+  {
+    "url": "pages/general/boosts.php",
+    "revision": "8d1a111b93f57070f963396dcf810602"
   },
   {
     "url": "pages/general/challenges.php",
@@ -543,7 +559,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/",
-    "revision": "2ea9cc302e9ae3d2d9f8cb15659751e9"
+    "revision": "c54b8e5ea14b0957221d0e11b1d05d01"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

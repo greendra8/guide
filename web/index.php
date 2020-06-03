@@ -77,6 +77,14 @@
                 <button>Learn More</button>
             </div>
         </a>
+        <a href="/pages/general/boosts.php">
+            <div class="row listing">
+                <img src="/img/boosts.png" class="rounded float-left icon" alt="...">
+                <h3 id="boosts">Boosts</h3>
+                <p>What do boosts do in Minecraft Earth and how can you get them.</p>
+                <button>Learn More</button>
+            </div>
+        </a>
         <div class="row listing soon">
             <img src="/img/purple_cat.png" class="rounded float-left icon" alt="...">
             <h3>More Coming Soon!</h3>
