@@ -79,7 +79,7 @@ self.__precacheManifest = [
   },
   {
     "url": "css/style.css",
-    "revision": "302ae44b8262dd38bb14f309d40bb5eb"
+    "revision": "b0d97e493521565d65c5d6ff36f74b75"
   },
   {
     "url": "css/sweetalert2/sweetalert2.min.js",
@@ -499,7 +499,7 @@ self.__precacheManifest = [
   },
   {
     "url": "mobs.php",
-    "revision": "864a7cb0fcc5e66cd251fb613d75d348"
+    "revision": "c7cf0a0ad39b64fcfc56eeec897d1f16"
   },
   {
     "url": "pages/adventures/index.php",
