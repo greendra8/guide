@@ -79,7 +79,7 @@ self.__precacheManifest = [
   },
   {
     "url": "css/style.css",
-    "revision": "b0d97e493521565d65c5d6ff36f74b75"
+    "revision": "62e54404e93b65da28592218663b60db"
   },
   {
     "url": "css/sweetalert2/sweetalert2.min.js",
@@ -106,7 +106,7 @@ self.__precacheManifest = [
     "revision": "05a1eeac8e214702e7bf656214a24940"
   },
   {
-    "url": "img/adventure_crystal_epic_0.png",
+    "url": "img/adventure_crystal_epic.png",
     "revision": "7bb411dc5142b041608def7d491c3e50"
   },
   {
