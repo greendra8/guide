@@ -499,7 +499,7 @@ self.__precacheManifest = [
   },
   {
     "url": "mobs.php",
-    "revision": "5eeaa5276ad299124cc8890e1dc287c3"
+    "revision": "972f4cdef12c5253649501a498b3dc49"
   },
   {
     "url": "pages/adventures/index.php",
@@ -515,39 +515,39 @@ self.__precacheManifest = [
   },
   {
     "url": "pages/general/adventures.php",
-    "revision": "81142637aa94c96539f7944909b1c967"
+    "revision": "47b9bafa28d8306be98ce05ad479022b"
   },
   {
     "url": "pages/general/boosts.php",
-    "revision": "a1084805014daf49b9a01cafffa78bbe"
+    "revision": "8877830b6e7f2e9e5afa0ea2159e9909"
   },
   {
     "url": "pages/general/challenges.php",
-    "revision": "bf0a475c5f7783124feb605bdadbc3b7"
+    "revision": "067154e3f3c0762ea8254f2af203cfbe"
   },
   {
     "url": "pages/general/introduction.php",
-    "revision": "4e46305e79321eb84742c3e9a964281a"
+    "revision": "0e057ec8d54f9f5f117718f768dda8c6"
   },
   {
     "url": "pages/general/inventory.php",
-    "revision": "058e295478d9126e27e7336be02c6387"
+    "revision": "1e8042039dbfc275d18f75c9b77a7e31"
   },
   {
     "url": "pages/general/journal.php",
-    "revision": "8f1c392a80001694b068879de56df2ac"
+    "revision": "6819bd6c741d313965c420804f29988c"
   },
   {
     "url": "pages/general/profile.php",
-    "revision": "73278e695afcfa7ca29d5fadfc9e0094"
+    "revision": "d33f804ff3846be3e5bfe400164a4237"
   },
   {
     "url": "pages/general/seasons.php",
-    "revision": "d0ce6da85e7df76451c1d62a489ed317"
+    "revision": "dc1a26790821c072b55fb00f8cf55146"
   },
   {
     "url": "pages/general/tappables.php",
-    "revision": "da66e02e3994742b200c2521a54be9f0"
+    "revision": "ee14e2b844f8bfa2f22686d008e644fa"
   },
   {
     "url": "pwa/app.js",
