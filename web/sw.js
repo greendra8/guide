@@ -23,7 +23,7 @@ workbox.core.skipWaiting();
 self.__precacheManifest = [
   {
     "url": "about.php",
-    "revision": "7d693c7123b5940e0c655dfb1372830e"
+    "revision": "534252a260245ab72c365dc8956a53e1"
   },
   {
     "url": "css/bootstrap.min.css",
@@ -79,7 +79,7 @@ self.__precacheManifest = [
   },
   {
     "url": "css/style.css",
-    "revision": "62e54404e93b65da28592218663b60db"
+    "revision": "302ae44b8262dd38bb14f309d40bb5eb"
   },
   {
     "url": "css/sweetalert2/sweetalert2.min.js",
@@ -487,67 +487,67 @@ self.__precacheManifest = [
   },
   {
     "url": "includes/head.php",
-    "revision": "4fe1c7872dffce77ab5bd47052b539bf"
+    "revision": "b3584c375c206d626359718eceb74952"
   },
   {
     "url": "includes/nav.php",
-    "revision": "87c663900fb5e1f6ca2fe3f519631778"
+    "revision": "bdf85450a697e886ed924604f8d66767"
   },
   {
     "url": "index.php",
-    "revision": "6ba2b57872bd214c98f61ccff7afa07b"
+    "revision": "02a154316e0faf43aaac0286d0c3d3a8"
   },
   {
     "url": "mobs.php",
-    "revision": "972f4cdef12c5253649501a498b3dc49"
+    "revision": "2886fed50d75a621d1f4dd41d0fdd63d"
   },
   {
     "url": "pages/adventures/index.php",
-    "revision": "bf8c255a78d24607ca7bf9de7162b56a"
+    "revision": "eb9bafdbebc32604a1708ba282e39b11"
   },
   {
     "url": "pages/adventures/squid_tank.php",
-    "revision": "c498da30803abfafc7b4c5551ee0cfdc"
+    "revision": "fb498268e2728d7fbef138311ac0eece"
   },
   {
     "url": "pages/adventures/yin_yang.php",
-    "revision": "9a5206497275c3cfc48fba26b236bb66"
+    "revision": "9e490b4d4e5ae71cebf33c4a9bb61f2a"
   },
   {
     "url": "pages/general/adventures.php",
-    "revision": "47b9bafa28d8306be98ce05ad479022b"
+    "revision": "e83dd03330c69b4def28e3af0136ebe0"
   },
   {
     "url": "pages/general/boosts.php",
-    "revision": "8877830b6e7f2e9e5afa0ea2159e9909"
+    "revision": "185fef41d004c3cb501ea952052c68df"
   },
   {
     "url": "pages/general/challenges.php",
-    "revision": "067154e3f3c0762ea8254f2af203cfbe"
+    "revision": "925b1e8a23d648c6cbca66defea1b5ff"
   },
   {
     "url": "pages/general/introduction.php",
-    "revision": "0e057ec8d54f9f5f117718f768dda8c6"
+    "revision": "ca47b629ae800286c3da106f497ecff2"
   },
   {
     "url": "pages/general/inventory.php",
-    "revision": "1e8042039dbfc275d18f75c9b77a7e31"
+    "revision": "c1f0a5331738dce4f2e699f64ceec48a"
   },
   {
     "url": "pages/general/journal.php",
-    "revision": "6819bd6c741d313965c420804f29988c"
+    "revision": "015bd66c92cb1e3719f75e6dd4f2f456"
   },
   {
     "url": "pages/general/profile.php",
-    "revision": "d33f804ff3846be3e5bfe400164a4237"
+    "revision": "bf3f3ba13d96a1b724e2518ace6dee24"
   },
   {
     "url": "pages/general/seasons.php",
-    "revision": "dc1a26790821c072b55fb00f8cf55146"
+    "revision": "3bd0fdf438af230041c0d33fca43fd4c"
   },
   {
     "url": "pages/general/tappables.php",
-    "revision": "ee14e2b844f8bfa2f22686d008e644fa"
+    "revision": "838efded45d0bf94ee8daafb951125cd"
   },
   {
     "url": "pwa/app.js",
@@ -559,7 +559,7 @@ self.__precacheManifest = [
   },
   {
     "url": "/",
-    "revision": "aaa5bdb7b2343ce70c723add75ff6bcc"
+    "revision": "f0c352aa54f39b8d0b931d52928507d7"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

@@ -15,7 +15,7 @@
         <div class="clearfix" id="google_translate_element"></div>
         <a href="/pages/general/introduction.php">
             <div class="row listing">
-                <!-- <img src="/img/earth.png" class="rounded float-left icon" alt="..."> -->
+                <img src="/img/earth.png" class="rounded float-left icon" alt="...">
                 <h3 id="introduction">Introduction</h3>
                 <p>A simple, short and sweet introduction to Minecraft Earth! Everything you need to know.</p>
                 <button>Learn More</button>
@@ -23,7 +23,7 @@
         </a>
         <a href="/pages/general/tappables.php">
             <div class="row listing">
-                <!-- <img src="/img/stone-tappable.png" class="rounded float-left icon" alt="..."> -->
+                <img src="/img/stone-tappable.png" class="rounded float-left icon" alt="...">
                 <h3 id="tappables">Tappables</h3>
                 <p>What are tappables and how can you collect them? Plus what do tappable rarities mean?</p>
                 <button>Learn More</button>
@@ -31,7 +31,7 @@
         </a>
         <a href="/pages/general/inventory.php">
             <div class="row listing">
-                <!-- <img src="/img/backpack.png" class="rounded float-left icon" alt="..."> -->
+                <img src="/img/backpack.png" class="rounded float-left icon" alt="...">
                 <h3 id="inventory">Inventory</h3>
                 <p>How does your inventory work in Minecraft Earth and how can you access it?</p>
                 <button>Learn More</button>
@@ -39,7 +39,7 @@
         </a>
         <a href="/pages/general/profile.php">
             <div class="row listing">
-                <!-- <img src="/img/profile.png" class="rounded float-left icon" alt="..."> -->
+                <img src="/img/profile.png" class="rounded float-left icon" alt="...">
                 <h3 id="profile">Profile</h3>
                 <p>What does your profile tell you and how can you view it in Minecraft Earth.</p>
                 <button>Learn More</button>
@@ -47,7 +47,7 @@
         </a>
         <a href="/pages/general/adventures.php">
             <div class="row listing">
-                <!-- <img src="/img/adventure_crystals.png" class="rounded float-left icon" alt="..."> -->
+                <img src="/img/adventure_crystals.png" class="rounded float-left icon" alt="...">
                 <h3 id="adventures">Adventures</h3>
                 <p>What are adventures and adventure crystals and how you can play them in Minecraft Earth.</p>
                 <button>Learn More</button>
@@ -55,7 +55,7 @@
         </a>
         <a href="/pages/general/journal.php">
             <div class="row listing">
-                <!-- <img src="/img/journal.png" class="rounded float-left icon" alt="..."> -->
+                <img src="/img/journal.png" class="rounded float-left icon" alt="...">
                 <h3 id="journal">Journal</h3>
                 <p>What is the journal and how can you use it in Minecraft Earth.</p>
                 <button>Learn More</button>
@@ -63,7 +63,7 @@
         </a>
         <a href="/pages/general/challenges.php">
             <div class="row listing">
-                <!-- <img src="/img/challenges.png" class="rounded float-left icon" alt="..."> -->
+                <img src="/img/challenges.png" class="rounded float-left icon" alt="...">
                 <h3 id="challenges">Challenges</h3>
                 <p>How do daily challenges and tappable challenges work in Minecraft Earth?</p>
                 <button>Learn More</button>
@@ -71,7 +71,7 @@
         </a>
         <a href="/pages/general/seasons.php">
             <div class="row listing">
-                <!-- <img src="/img/seasons.png" class="rounded float-left icon" alt="..."> -->
+                <img src="/img/seasons.png" class="rounded float-left icon" alt="...">
                 <h3 id="seasons">Seasons</h3>
                 <p>What are seasons in Minecraft Earth and how can you complete them.</p>
                 <button>Learn More</button>
@@ -79,7 +79,7 @@
         </a>
         <a href="/pages/general/boosts.php">
             <div class="row listing">
-                <!-- <img src="/img/boosts.png" class="rounded float-left icon" alt="..."> -->
+                <img src="/img/boosts.png" class="rounded float-left icon" alt="...">
                 <h3 id="boosts">Boosts</h3>
                 <p>What do boosts do in Minecraft Earth and how can you get them.</p>
                 <button>Learn More</button>
@@ -96,7 +96,7 @@
         <div class="row">
             <li><a href="/about.php">About</a></li>
             <li><a href="/">Terms</a></li>
-            <li><a href="mailto:greendra8@hotmail.co.uk">Contact</a></li>
+            <li><a href="mailto:hello@playminecraftearth.com">Contact</a></li>
         </div>
     </div>
 </body>
@@ -160,4 +160,4 @@ if ('serviceWorker' in navigator) {
 </script>
 
 </html>
-<!-- JIGAV -->
+<!-- 1585 -->

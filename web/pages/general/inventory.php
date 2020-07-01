@@ -8,7 +8,7 @@
             <h1>Inventory</h1>
             <p>Every item that you collect from tappables, adventures and challenges will get stored in your inventory.
             </p>
-            <!-- <img src="/img/backpack.png" class="rounded mx-auto d-block img"> -->
+            <img src="/img/backpack.png" class="rounded mx-auto d-block img">
             <p>You can access your inventory by tapping on the chest in the hotbar.</p>
             <p>Inside your inventory you can sort by rarity, quantity and alphabetically. You'll also notice that items
                 can be stacked infinity (goodbye 64!)</p>
@@ -16,7 +16,7 @@
                 include Mobs, Construction, Nature, Equipment, and Items (for everything else).</p>
             <h3>Hotbar</h3>
             <p>Along the bottom of the screen you'll notice there are 7 slots. This area is called your hotbar.</p>
-            <!-- <img src="/img/wooden_sword.png" class="rounded mx-auto d-block img"> -->
+            <img src="/img/wooden_sword.png" class="rounded mx-auto d-block img">
             <p>The items in your hotbar will be those that you take into adventures with you. Be careful though, as if
                 you die in an adventure you will lose these items! (More on this in the adventure guide)</p>
             <button onclick="window.location.href='/#inventory'">Go Back</button>
@@ -25,4 +25,4 @@
 </body>
 
 </html>
-<!-- JIGAV -->
+<!-- 1585 -->

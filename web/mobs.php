@@ -13,10 +13,8 @@
     <div class="container main">
         <hr>
         <div class="row content items">
-            <div class="col">
-            <h2>Coming soon!</h2>
-                <img src="/img/pig_black.png" class="rounded mx-auto d-block img">
-                <!-- <img src="/img/profile.png" class="rounded item">
+            <div class="col text-center">
+                <img src="/img/profile.png" class="rounded item">
                 <img src="/img/chicken.png" class="rounded item">
                 <img src="/img/cluckshroom.png" class="rounded item">
                 <img src="/img/spawn_egg_5031.png" class="rounded item">
@@ -58,11 +56,11 @@
                 <img src="/img/spider.png" class="rounded item">
                 <img src="/img/bone_spider.png" class="rounded item">
                 <img src="/img/creeper.png" class="rounded item">
-                <img src="/img/skeleton.png" class="rounded item"> -->
+                <img src="/img/skeleton.png" class="rounded item">
             </div>
         </div>
     </div>
 </body>
 
 </html>
-<!-- JIGAV -->
+<!-- 1585 -->

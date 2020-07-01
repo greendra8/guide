@@ -26,7 +26,8 @@
       gtag('js', new Date());
 
       gtag('config', 'G-07K0MFD8QM');
-    </script>
+</script>
+<script data-ad-client="ca-pub-3588557831546476" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <link rel="stylesheet" href="/css/style.css">
 <title>Guide App</title>
 </head>
